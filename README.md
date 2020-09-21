@@ -10,6 +10,10 @@ I am Azure Developer | Trainer | Blogger . I used to write about Azure , Azure D
 
 [Introduction to Azure API Management](https://aum-kaara.github.io/AzureAPIManagement.html)
 
+[Introduction to Azure Policy](https://aum-kaara.github.io/Azure-Policy.html)
+
+[Introduction to Azure Storage Account](https://aum-kaara.github.io/AzureStorageAccount.html)
+
 <!--
 **Aum-Kaara/Aum-Kaara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
